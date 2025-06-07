@@ -1,6 +1,6 @@
 {
   "name":"ddueh", "description":"emby-icon", 
   "icons":[
-    {"name":"Malèna", "url":"https://github.com/ftufkc/emby-icon/blob/main/icon/Malèna.png?raw=true"}
+    {"name":"Malèna", "url":"https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Malèna.png"}
   ]
 }
