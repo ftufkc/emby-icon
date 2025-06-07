@@ -1,10 +1,14 @@
 # emby-icon
-# 1. 安装 Pillow
+## 使用
+引用地址：https://github.com/ftufkc/emby-icon/raw/refs/heads/main/emby-icon.json
+
+## 开发
+### 1. 安装 Pillow
 pip install pillow
 
-# 2. 准备字体（示例用思源黑体粗体）
+### 2. 准备字体（示例用思源黑体粗体）
 wget https://github.com/IU-Libraries-Joint-Development/pumpkin/raw/refs/heads/master/app/assets/fonts/NotoSansCJK/NotoSansCJKtc-Bold.ttf
 
-# 3. 运行脚本
+### 3. 运行脚本
 python icon_maker.py ./input_icons ./output_icons "青梅映画" --radius 24 --font NotoSansCJKtc-Bold.ttf
 
