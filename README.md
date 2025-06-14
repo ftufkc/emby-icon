@@ -16,5 +16,5 @@ wget https://github.com/IU-Libraries-Joint-Development/pumpkin/raw/refs/heads/ma
 
 ### 3. 运行脚本
 ```shell
-python icon_maker.py ./input_icons ./output_icons "我的emby" --radius 24 --font NotoSansCJKtc-Bold.ttf
+python icon_maker.py ./input_icons ./output_icons "我的emby" --radius 24 --font SourceHanSerifSC-Heavy.otf
 ```

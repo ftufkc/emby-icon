@@ -20,7 +20,7 @@ def process_images(
     output_dir: Path,
     text: str,
     font_path: str = "NotoSansCJKtc-Bold.ttf",
-    font_size_ratio: float = 0.15,   # 字号 ≈ 图宽 × 0.22，可按需调
+    font_size_ratio: float = 0.16,   # 字号 ≈ 图宽 × 0.22，可按需调
     padding_ratio: float = 0.25,     # 底部留白比例
     corner_radius: int = 20,
 ):
